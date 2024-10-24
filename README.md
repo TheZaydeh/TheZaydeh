@@ -18,4 +18,4 @@ My Name is Zaydeh, I am a Web Developer from India.<br><br>🔭 I’m currently 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheZaydeh&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created by Zayd Memon -->
